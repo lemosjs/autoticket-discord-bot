@@ -2,7 +2,7 @@
 
 # Instructions
 
-1. Add token to .env
+1. Add token to .env (rename .sample.env to .env)
 2. Change settings.json to your likings and save
 3. Open cmd and type `npm install` then press enter
 4. After that type `npm start` then press enter
